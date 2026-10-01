@@ -1,1 +1,1 @@
-R2 binding test
+R2 binding test ok
